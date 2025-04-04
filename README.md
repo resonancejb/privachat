@@ -5,7 +5,7 @@
 This is a desktop application built with Python and PyQt6 that allows you to interact with Large Language Models (LLMs) like Google's Gemini series through an OpenAI-compatible API endpoint. It provides a user-friendly interface for text and multi-modal chat (including images, PDFs, and text files) while **keeping your chat history and API key stored securely and privately on your local machine.**
 
 <!-- Optional: Add a screenshot here -->
-<!-- ![Screenshot](screenshot.png) -->
+![Screenshot](image.png)
 
 ## Features
 
@@ -49,7 +49,7 @@ Essentially, your interactions and configuration remain on your own computer, of
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone [<your-repository-url>](https://github.com/resonancejb/privachat)
     cd <repository-directory>
     ```
 
